@@ -1,5 +1,5 @@
 {
-  "$id": "Jobs_Landing_Pages",
+  "$id": "Jobs-Landing-Pages",
   "$schema": "https://schema.yext.com/config/pages/page-builder-template/v1",
   "EntityTypeName": "job",
   "PageSetConfig": {

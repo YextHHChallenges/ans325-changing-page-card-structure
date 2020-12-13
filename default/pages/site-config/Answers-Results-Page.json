@@ -1,5 +1,5 @@
 {
-  "$id": "Answers_Results_Page",
+  "$id": "Answers-Results-Page",
   "$schema": "https://schema.yext.com/config/pages/site-config/v1",
   "features": [
     {
